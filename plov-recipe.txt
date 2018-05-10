@@ -28,3 +28,5 @@ Wash and drain the basmati rice in hot water. Pour the rice over the lamb mixtur
 Slowly pour the boiling water (or vegetable broth). The rice should be covered with about ½ inch of water. Do not stir.
 Season with salt and reduce heat to medium-low. Cover and cook until rice is tender and liquid has been absorbed, about 20 minutes.
 Mix the ingredients as you serve the dish on a platter. Garnish with the garlic heads.
+
+I did some changes localy so that i want to see colobration conflict 
